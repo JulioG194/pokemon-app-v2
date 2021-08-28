@@ -1,0 +1,9 @@
+.title {
+    text-align: center;
+    font: 1em sans-serif;
+}
+
+.card img{
+    height: 100px;
+    width: 100px;
+}
